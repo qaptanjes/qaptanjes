@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" role="img" aria-label="claude-code-ai-company - 21-role multi-agent AI software company for Claude Code">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12141c"/>
+      <stop offset="100%" stop-color="#1e1b28"/>
+    </linearGradient>
+    <linearGradient id="cacc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d98b5f"/>
+      <stop offset="100%" stop-color="#c9709a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="200" rx="12" fill="url(#cbg)" stroke="#2a3044" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="200" rx="2.5" fill="url(#cacc)"/>
+
+  <!-- repo icon -->
+  <g transform="translate(30,28)" fill="#7d8598">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.5 2.5 0 0 1 2 11.5Zm10.5-1H4.5a1 1 0 0 0-1 1v6.708A2.5 2.5 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.25.25 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z" transform="scale(1.15)"/>
+  </g>
+
+  <text x="62" y="45" font-family="'SF Mono',Consolas,monospace" font-size="20" font-weight="600" fill="#d98b5f">claude-code-ai-company</text>
+  <rect x="322" y="28" width="58" height="20" rx="10" fill="none" stroke="#3d4661"/>
+  <text x="351" y="42" font-family="-apple-system,Segoe UI,sans-serif" font-size="11.5" fill="#8b93a8" text-anchor="middle">Public</text>
+
+  <text x="30" y="82" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" fill="#a9b1c4">Claude Code için 21 rollü çok ajanlı yazılım şirketi. CTO, backend, frontend,</text>
+  <text x="30" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="15" fill="#a9b1c4">güvenlik, QA, SEO — her rolün kendi modeli, araç seti ve sistem promptu var.</text>
+  <text x="30" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="14" font-style="italic" fill="#6f7789">A 21-role multi-agent AI software company for Claude Code.</text>
+
+  <g font-family="-apple-system,Segoe UI,sans-serif" font-size="12.5">
+    <circle cx="36" cy="163" r="6" fill="#d98b5f"/>
+    <text x="50" y="168" fill="#8b93a8">Markdown</text>
+
+    <rect x="140" y="152" width="112" height="24" rx="12" fill="#2e2434" stroke="#d98b5f" stroke-opacity="0.45"/>
+    <text x="196" y="168" fill="#e8b48f" text-anchor="middle">🔥 Fable 5 · 4</text>
+
+    <rect x="262" y="152" width="112" height="24" rx="12" fill="#242c40" stroke="#8593bd" stroke-opacity="0.45"/>
+    <text x="318" y="168" fill="#a8b6de" text-anchor="middle">🧠 Opus 5 · 17</text>
+
+    <rect x="384" y="152" width="140" height="24" rx="12" fill="#1f2b26" stroke="#6ea88a" stroke-opacity="0.45"/>
+    <text x="454" y="168" fill="#8fd0ae" text-anchor="middle">3.390 kaynak dosyası</text>
+
+    <rect x="534" y="152" width="96" height="24" rx="12" fill="#26212e" stroke="#5b6480" stroke-opacity="0.5"/>
+    <text x="582" y="168" fill="#9aa3b8" text-anchor="middle">MIT</text>
+  </g>
+
+  <!-- mini org chart -->
+  <g transform="translate(668,44)" opacity="0.9">
+    <rect x="46" y="0" width="42" height="17" rx="5" fill="url(#cacc)"/>
+    <text x="67" y="12.5" font-family="-apple-system,Segoe UI,sans-serif" font-size="9.5" font-weight="700" fill="#151119" text-anchor="middle">CEO</text>
+    <line x1="67" y1="17" x2="67" y2="32" stroke="#6b7churn" stroke-width="1.4"/>
+    <line x1="67" y1="17" x2="67" y2="32" stroke="#6b748c" stroke-width="1.4"/>
+    <line x1="20" y1="32" x2="114" y2="32" stroke="#6b748c" stroke-width="1.4"/>
+    <line x1="20" y1="32" x2="20" y2="44" stroke="#6b748c" stroke-width="1.4"/>
+    <line x1="67" y1="32" x2="67" y2="44" stroke="#6b748c" stroke-width="1.4"/>
+    <line x1="114" y1="32" x2="114" y2="44" stroke="#6b748c" stroke-width="1.4"/>
+    <rect x="2"  y="44" width="36" height="15" rx="4" fill="#4a3050" stroke="#c9709a" stroke-opacity="0.55"/>
+    <rect x="49" y="44" width="36" height="15" rx="4" fill="#333c56"/>
+    <rect x="96" y="44" width="36" height="15" rx="4" fill="#333c56"/>
+    <g stroke="#4d556c" stroke-width="1">
+      <line x1="20" y1="59" x2="8"  y2="72"/><line x1="20" y1="59" x2="20" y2="72"/><line x1="20" y1="59" x2="32" y2="72"/>
+      <line x1="67" y1="59" x2="55" y2="72"/><line x1="67" y1="59" x2="67" y2="72"/><line x1="67" y1="59" x2="79" y2="72"/>
+      <line x1="114" y1="59" x2="102" y2="72"/><line x1="114" y1="59" x2="114" y2="72"/><line x1="114" y1="59" x2="126" y2="72"/>
+    </g>
+    <g fill="#252d44">
+      <rect x="1" y="72" width="15" height="11" rx="3"/><rect x="13" y="72" width="15" height="11" rx="3"/><rect x="25" y="72" width="15" height="11" rx="3"/>
+      <rect x="48" y="72" width="15" height="11" rx="3"/><rect x="60" y="72" width="15" height="11" rx="3"/><rect x="72" y="72" width="15" height="11" rx="3"/>
+      <rect x="95" y="72" width="15" height="11" rx="3"/><rect x="107" y="72" width="15" height="11" rx="3"/><rect x="119" y="72" width="15" height="11" rx="3"/>
+    </g>
+  </g>
+</svg>
